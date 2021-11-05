@@ -1,0 +1,55 @@
+.div1{
+    margin-left: 300px;
+}
+.div2{
+    display: flex;
+    margin-left: 300px;
+    background-color: rgb(71, 74, 255);
+    width: 230px;
+    height: 50px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.div4{
+margin-left: 203px;
+font-size: 20px;
+color: rgb(224, 224, 224);
+position: absolute;
+cursor: pointer;
+}
+.div3{
+    margin-left: 50px;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.taskLine{
+    text-decoration: line-through;
+}
+.div5{
+margin-left: 15px;
+margin-top: 5px;
+color: white;
+}
+.input{
+background-color: rgb(66, 171, 219);
+border: 0;
+width: 200px;
+height: 30px;
+border-radius: 5px;
+outline: none;
+}
+button{
+    background-color: turquoise;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 10px;
+    outline: none;
+}
+
+button:hover{
+    background-color: rgb(198, 250, 245);
+    cursor: pointer;
+}
